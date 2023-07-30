@@ -17,6 +17,7 @@ class Counter extends Component {
             >
               <i className="fa fa-plus-circle" aria-hidden="true" />
             </button>
+            <div></div>
             <button
               className="btn btn-info m-2"
               onClick={() => this.props.onDecrement(this.props.counter)}
