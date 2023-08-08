@@ -10,7 +10,6 @@ class Counter extends Component {
               {this.formatCount()}
             </span>
           </div>
-         
           <div className="">
             <button
               className="btn btn-secondary"
